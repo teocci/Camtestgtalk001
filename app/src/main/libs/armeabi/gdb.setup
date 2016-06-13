@@ -1,0 +1,2 @@
+set solib-search-path /home/teocci/AndroidSRC/CamtestMJPEG001/app/src/main/obj/local/armeabi
+directory /home/teocci/Android/Ndk/platforms/android-8/arch-arm/usr/include /home/teocci/Android/Ndk/sources/cxx-stl/stlport/stlport /home/teocci/Android/Ndk/sources/cxx-stl//gabi++/include /home/teocci/AndroidSRC/CamtestMJPEG001/app/src/main/jni ./
